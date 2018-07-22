@@ -1,0 +1,101 @@
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+    background: linear-gradient(to right, #0066cc 0%, #66ff99 100%);
+    color: #FFF;
+    border: 0;
+    font-size: 1.4em;
+    padding : 0% 0%;
+
+}
+.navbar-brand {
+    float: left;
+    min-height: 40px;
+    padding-left: 50px;
+    .text-justify{
+    background: linear-gradient(to right, #0066cc 0%, #66ff99 100%);
+    text-align: center;
+    color: #FFF;
+}
+
+    padding-top:  0 px;
+}
+.navbar-inverse .navbar-nav .active a ,.navbar-inverse .navbar-nav .active a:hover,.navbar-inverse .navbar-nav .active a:focus{
+    color: #FFF;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav li a {/*while not hovering*/
+    color : #263238;
+    padding-top: 5px;
+}
+#box1{
+    height: 100vh;
+    background-image: url("../aboutUs.img/about1.jpg");
+    background-size: cover;
+    display: table;
+    vertical-align: middle;
+    background-attachment: fixed;
+
+}
+#box2{
+    height: 100vh;
+    background-image: url("../aboutUs.img/about2.jpg");
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+
+}
+#box3 {
+    height: 100vh;  
+    background-image: url("../aboutUs.img/about3.jpg");
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+.text-align {
+    transform: translateY(250px);
+    color: white;
+    font-family: 'Bowlby One', cursive;
+
+}
+.textalign{
+    font-family: 'Arvo', serif;
+    transform: translateY(300px);
+    color: #FFF;
+    word-wrap: break-word;
+    font-size: x-large;
+
+}
+.logout-btn{
+    border-radius: 0px;
+    background-color: transparent;
+    font-size: 20px;
+    border-style: none;
+
+}
+.logout-btn:hover{
+    text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6), 0 6px 20px 0 rgba(0,0,0,0.45);
+    background-color: transparent;
+
+}
+.btn {
+    transform: translateY(400%);
+    font-size: 15px;
+    color: darkslategrey;
+    padding: 14px 22px;
+    background: transparent  ;
+    border: 2px solid #FFF;
+}
+
+.btn:hover{
+    background: #34e029;
+    font-size: 17px;
+    text-decoration: none;
+}
+.text-justify{
+    background: linear-gradient(to right, #0066cc 0%, #66ff99 100%);
+    text-align: center;
+    color: #FFF;
+}
+
