@@ -1,0 +1,8 @@
+CREATE TABLE answers (
+	ans_id int(10) not null AUTO_INCREMENT PRIMARY KEY,
+	ques_id int(10) not null,
+	ans varchar(1000) not null,
+	ans_uid varchar(256) not null
+);
+	
+	

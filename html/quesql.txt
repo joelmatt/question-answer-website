@@ -1,0 +1,5 @@
+CREATE TABLE questions (
+	ques_id int(10) not null AUTO_INCREMENT PRIMARY KEY,
+	ques varchar(1000) not null,
+	ques_uid varchar(256) not null
+);
