@@ -1,5 +1,5 @@
 # q-and-a-website
---------------------------VERY FIRST PROJECT THAT INCLUDES HTML, CSS,BOOTSTRAP, a bit of PHP, a bit of  SQL and the use of XAMPP---------------------
+-------------VERY FIRST PROJECT THAT INCLUDES HTML, CSS,BOOTSTRAP, a bit of PHP, a bit of  SQL and the use of XAMPP---------------------
 This is a part of my college Summer Project. A very basic question answer website named as The Engineering Portal (TEP)
 for engineering students for asking questions and to be answered by anyone who can answer that specific question. multiple answers for that specific question is feasible. A VERY BASIC QUESION ANSWER PORTAL :)
 # XAMPP SETUP-------------------------
